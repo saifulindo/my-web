@@ -85,5 +85,5 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-architect
-remote-theme: Architect
+theme: jekyll-now
+remote-theme: Jekyll Now
